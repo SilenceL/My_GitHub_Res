@@ -116,6 +116,8 @@
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) MJ出品json操作控件
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) 国人写的，将安卓上的那些布局类型封装成了ios版的，好像不错，值得关注，说不定哪天可以发展起来，现在有 850+ star 了！
 * [DateTools](https://github.com/MatthewYork/DateTools) 让我们更愉快的与日期打交道，吐槽下，oc的日期操作是在太麻烦了
+* [Diplomat](https://github.com/lingochamp/Diplomat) 整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。
+
 
  
 #### *开源项目* <a name="OC开源项目"></a>
