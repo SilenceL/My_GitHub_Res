@@ -262,6 +262,8 @@
 * [sketch-plugin-directory](https://github.com/sketchplugins/plugin-directory) Sketch草图大师的插件合集
 
 ### 好东西 <a name="好东西"></a>
+* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) 如何成为程序员！/(ㄒoㄒ)/~~
+* [phodal大神主页](https://github.com/phodal) phodal大大写的东西得好好看看，分析的不错，写的也很不错，值得学习
 * [awesome](https://github.com/sindresorhus/awesome) github里面所有awesome的东西，哇哈哈，不错！不错！不错！awesome！awesome！awesome！
 * [free-programming-books](https://github.com/vhf/free-programming-books) 免费的计算机编程类书籍，好多好多
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍，好多好多
