@@ -71,6 +71,7 @@
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
 * [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit) 一个对UIImage扩展的扩展库。A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more.
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) 一个很好用的图片轮播控件，作者号称： “iOS第一图片轮播器” 无限循环图片轮播器。
+* [GPUImage](https://github.com/BradLarson/GPUImage) 一个图像处理框架，功能绝对强大，可以做出自己的美图秀秀或者修图App。
 
 
 
@@ -84,6 +85,8 @@
 * [MXPullDownMenu](https://github.com/max2oi/MXPullDownMenu) 公司现在用的下拉菜单控件，简单，可以自己任意改造，但是功能太简单，经常无法满足需求，得自己改，但是很好改
 * [ICViewPager](https://github.com/iltercengiz/ICViewPager) 公司现在用的页面切换控件，一直在用，比较容易改造，能满足日常使用，功能比较简单
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) 页面切换控件，功能好多，先收藏，说不定日后有用
+* [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) 侧面菜单控制器（可左右都有）
+
 
 
 #### *HUD/弹出层* <a name="OCHUD/弹出层"></a>
@@ -91,9 +94,15 @@
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner) 又一个非常漂亮的loading动画集合
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) 一款简单的弹出提示控件
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) 一款使用起来很简单，很广的HUD框架
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) 一款非常出名，关注度很高的HUD框架
+
 
  
 #### *框架* <a name="OC框架"></a>
+
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) oc最屌最多人用的网络框架
+* [Masonry](https://github.com/SnapKit/Masonry) oc最出名的代码写自动布局框架
+* [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) forkingdog出品的oc自动算/缓存UITableViewCell行高框架
 * [FDStackView](https://github.com/forkingdog/FDStackView)forkingdog出品的让IOS6以上的项目可以使用 UIStackView，只需要将框架放入项目即可
 * [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) forkingdog出品的 全屏侧滑返回 A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) GSD出品的一款自动布局框架，可算自动算行高，我没用过，纯收藏，因为看上去还不错，说不定有机会会用的
@@ -101,7 +110,13 @@
 * [YYKit](https://github.com/ibireme/YYKit) YY大神出品的一系列框架，真TM牛B
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) 原来oc上操作sqllite数据库可以这么简单，屌！！！！！
 * [iOS-Categories](https://github.com/shaojiankui/iOS-Categories) oc的扩展类库，很多，很多，很好用，很好用！
- 
+* [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) 富文本控件，在项目中用过，还不错
+* [SDWebImage](https://github.com/rs/SDWebImage) 一行代码搞定图片异步加载，屌炸天!
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) MJ出品上下拉刷新控件
+* [MJExtension](https://github.com/CoderMJLee/MJExtension) MJ出品json操作控件
+* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) 国人写的，将安卓上的那些布局类型封装成了ios版的，好像不错，值得关注，说不定哪天可以发展起来，现在有 850+ star 了！
+* [DateTools](https://github.com/MatthewYork/DateTools) 让我们更愉快的与日期打交道，吐槽下，oc的日期操作是在太麻烦了
+
  
 #### *开源项目* <a name="OC开源项目"></a>
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) 高仿微信（好多功能哦，可以参考下有些功能怎么写的 3000多star了）
@@ -112,7 +127,10 @@
 ### Swift <a name="Swift"></a>
 
 #### *动画* <a name="Swift动画"></a>
+* [Spring动画框架](https://github.com/MengTo/Spring) Spring动画框架 A library to simplify iOS animations in Swift
 * [DKChainableAnimationKit(链式动画框架)](https://github.com/Draveness/DKChainableAnimationKit) 可以支持链式代码写出动画 
+
+
 
 #### *UI* <a name="SwiftUI"></a>
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) swift请求权限工具 
@@ -139,12 +157,15 @@
 #### *Swift资源合集* <a name="Swift资源合集"></a>
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) swift的教程合集，英文的哦
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) swift不错的集合
 
 ***
 
 ### IOS综合<a name="IOS综合"></a>
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 函数式/响应式编程框架
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) MVVM与ReactiveCocoa结合的架构
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) 一些ios不错的UI，有oc，有swift
+* [awesome-ios](https://github.com/vsouza/awesome-ios) ios不错的资源合集
 * [iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze) 关于 iOS 开源项目源代码解析的文章 http://draveness.me
 * [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) iOS平台下比较主流炫酷的几款动画框架
@@ -160,9 +181,14 @@
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) 苹果socket（TCP、UDP）编程库，相当不错，支持oc、swift
 
 
+
+
 ### xCode相关<a name="xCode相关"></a>
+* [Alcatraz](https://github.com/alcatraz/Alcatraz) xcode插件管理工具，必装
+* [Peckham](https://github.com/markohlebar/Peckham) xcode自动导入包插件
 * [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) 支持直接将json直接转换成oc对象的插件，MJ的扩展插件
 * [appledoc](https://github.com/tomaz/appledoc) 将oc代码写的项目快速生成苹果格式的文档 Objective-c code Apple style documentation set generator. http://gentlebytes.com
+
 
 ***
 
@@ -173,8 +199,14 @@
 * [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) 安卓最经典最多人使用的上下拉加载数据
 * [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 http://blog.csdn.net/lmj623565791/article/details/49990941
 * [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+* [base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper) Android 万能的Adapter 这是鼻祖，很多陆续的adapter都是都是参考这个为原型的
+* [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) Android RecyclerView的封装，非常牛叉好用，以后有机会研究下
+* [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
+
+
 
 #### *视频/图像* <a name="Android视频图像"></a>
+* [picasso](https://github.com/square/picasso) Android强大的图片处理工具框架
 * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册 
 
 #### *开源项目* <a name="Android开源项目"></a>
@@ -183,12 +215,12 @@
 
 #### *Android资源合集* <a name="Android资源合集"></a>
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) android ui 合集
+* [android-open-project](https://github.com/Trinea/android-open-project) Android开源项目大搜罗，不错，codekk推出的
 * [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 http://www.devtf.cn
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) Android开源项目及库
 * [android_top_1000](https://github.com/iamdaiyuan/android_top_1000) Android开源项目及库前1000名
 
 ***
-
 ## Java<a name="Java"></a>
 ### *数据相关* <a name="Java数据相关"></a>
 * [fastjson](https://github.com/alibaba/fastjson) 阿里巴巴的json解析库，速度很快很好用，有安卓版的，用过的都说好
@@ -200,6 +232,8 @@
 
 ## JavaScript <a name="JavaScript"></a>
 * [pdf.js](https://github.com/mozilla/pdf.js) 一款js读取pdf的框架 PDF Reader in JavaScript
+* [moment](https://github.com/moment/moment) JavaScript日期时间操作框架
+
 
 ***
 ## html/css<a name="html/css"></a>
@@ -217,7 +251,7 @@
 * [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) 基于bootstrap的一个表格控件，相当不错，用它来做后台管理系统非常好
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) 一套漂亮吊炸天的后台管理系统UI模板
 * [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker) 基于bootstrap的日期选择控件，漂亮简单强大
-
+* [bootstrap-daterangepicker2](https://github.com/Eonasdan/bootstrap-datetimepicker) 基于bootstrap的日期选择控件，漂亮简单强大2
 
 ***
 
@@ -239,3 +273,4 @@
 * [XcodePluginUpgradeCompatible-LFL](https://github.com/LFL2018/XcodePluginUpgradeCompatible-LFL) Xcode升级插件兼容一键解决命令工程
 * [opencv](https://github.com/Itseez/opencv) 全平台openCV图形算法解析库，估计以后研究图形方面能用得着
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) 一款json转对象的软件，支持json转 java、oc、swift
+* [alfred-workflows](https://github.com/zenorocha/alfred-workflows) alfred常用好用的插件集合
