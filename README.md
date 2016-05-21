@@ -97,6 +97,8 @@
 * [Y_KLine](https://github.com/yate1996/Y_KLine) iOS-K线
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) QQ侧滑菜单。 iOS 7/8 style side menu with parallax effect.
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) 聊天输入框，很不错
+* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) 仿微信二维码扫描，中间透明区域
+
 
 
 #### *HUD/弹出层* <a name="OCHUD/弹出层"></a>
@@ -146,6 +148,7 @@
 
 
 #### *UI* <a name="SwiftUI"></a>
+* [Material](https://github.com/CosmicMind/Material) Material Design风格的空间集合。 An animation and graphics framework for Material Design in Swift. http://materialswift.io
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) swift请求权限工具 
 * [PageMenu](https://github.com/HighBay/PageMenu) tab切换，viewPager控件，OC版本也有，不错哦
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) iOS 7+ 主题/换肤, 夜间模式（实现思路不错，可以参考学习一下）
@@ -154,6 +157,8 @@
 * [swiftScan](https://github.com/MxABC/swiftScan) A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果)
 * [Blurable](https://github.com/FlexMonkey/Blurable) 对任意UIView实现高斯模糊 Apply a Gaussian Blur to any UIView with Swift Protocol Extensions
 * [SwViewCapture](https://github.com/startry/SwViewCapture) 一个用起来还不错的iOS截图库.(支持截取所有内容, 适用于所有ScrollView组成的视图, 包括WKWebView)
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 非常漂亮简洁的滚动隐藏navBar，oc和swift都可以用 
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) 导航栏下拉菜单选择控件，很不错，值得学习
 
 
 #### *视频/图像* <a name="Swift视频/图像"></a>
@@ -164,6 +169,7 @@
 * [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) 快速集成高性能照片浏览器，支持本地及网络相册
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) 又一款拍照图片选择器，效果正不错，Reinventing the way ImagePicker works. http://hyper.no
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) 高性能gif图片查看引擎 High performance GIF engine
+* [UIImageColors](https://github.com/jathu/UIImageColors) 根据图片获取三级标题颜色，非常不错 iTunes style color fetcher for UIImage.
 
 
 
@@ -188,6 +194,7 @@
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) 让你更好的操作定时器！！！！  Swifty API for NSTimer http://radex.io/swift/nstimer
 * [R.swift](https://github.com/mac-cain13/R.swift) R.swift:以一种优雅安全的方式使用资源文件。Get strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [Permission](https://github.com/delba/Permission) 权限请求库
+* [Proposer](https://github.com/nixzhu/Proposer) 权限请求库
 
 
 
@@ -216,6 +223,7 @@
 * [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) iOS平台下比较主流炫酷的几款动画框架
 * [awesome-dev-blog-article](https://github.com/Jiar/awesome-dev-blog-article) 学习与开发过程中，发现的比较好的一些博客和文章之类的内容，收集着，利人利己，持续更新
+* [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ios图表框架大搜罗
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) 开源项目大收藏
 * [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) 巧神收集和推荐的Blog
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置
