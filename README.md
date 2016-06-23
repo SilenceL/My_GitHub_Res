@@ -13,7 +13,6 @@
 * [HUD/弹出层](#OCHUD/弹出层)
 * [框架](#OC框架)
 * [开源项目](#OC开源项目)
-* OC资源合集
 
 ### [Swift](#Swift)
 * [动画](#Swift动画)
@@ -32,8 +31,6 @@
 * [动画](#Android动画)
 * [UI](#AndroidUI)
 * [视频/图像](#Android视频图像)
-* HUD/弹出层
-* 框架
 * [开源项目](#Android开源项目)
 * [Android资源合集](#Android资源合集)
 
