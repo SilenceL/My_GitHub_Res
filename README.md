@@ -78,6 +78,9 @@
 * [ColorArt](https://github.com/panicinc/ColorArt) 通过选取的背景图片自动算出最合适的3个标题的颜色。
 * [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) SmarterStreaming系列产品，系daniulive（大牛直播）出品的跨平台视频采集、直播SDK（支持私有协议和RTMP推流，如Windows推流/android推流/iOS推流/Windows播放/android播放/iOS播放），公网毫秒级延迟，也许是国内最靠谱的视频直播推流、播放SDK之一，助您轻松实现类似于花椒、映客、斗鱼手机直播推送与播放
 * [CorePhotoBroswerVC](https://github.com/CharlinFeng/CorePhotoBroswerVC) 快速集成高性能照片浏览器，支持本地及网络相册
+* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。Based on AVPlayer, support for the horizontal screen, vertical screen (full screen playback can also lock the screen direction), the upper and lower slide to adjust the volume, the screen brightness, or so slide to adjust the playback progress
+* [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) 一个适用于 iOS 的 RTMP 直播推流 SDK，可高度定制化和二次开发(有空我要好好研究下这玩意)
+* [CTVideoPlayerView](https://github.com/casatwy/CTVideoPlayerView) 视频播放，支持在线播放，下载，自定义按钮，可以学习下
 
 
 #### *UI* <a name="OCUI"></a>
@@ -95,7 +98,10 @@
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) QQ侧滑菜单。 iOS 7/8 style side menu with parallax effect.
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) 聊天输入框，很不错
 * [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) 仿微信二维码扫描，中间透明区域
-
+* [BATabBarController](https://github.com/antiguab/BATabBarController) 挺炫的效果，TabBarController的tabBarItem点击效果，说不定以后一些特殊项目用的着
+* [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) 5500+star 浮动的UITextField，当你点击输入框后，提示将浮动起来，实用！！！ UITextField subclass with floating labels
+* [PNChart](https://github.com/kevinzhow/PNChart) 简单漂亮的图表展示库，简洁漂亮易用 A simple and beautiful chart lib used in Piner and CoinsMan for iOS
+* [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) 聊天和消息组件，可以拿来研究下 Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
 
 
 #### *HUD/弹出层* <a name="OCHUD/弹出层"></a>
@@ -141,6 +147,8 @@
 * [Spring动画框架](https://github.com/MengTo/Spring) Spring动画框架 A library to simplify iOS animations in Swift
 * [DKChainableAnimationKit(链式动画框架)](https://github.com/Draveness/DKChainableAnimationKit) 可以支持链式代码写出动画 
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) 一个用swift学习动画的项目 A project to learn animations.
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) 一个为粒子动画加上边界的框架 A customizable SpriteKit particles animation on the border of a view.
+* [Interpolate](https://github.com/marmelroy/Interpolate) 为手势操作添加动画效果，让应用拥有更好的交互
 
 
 
@@ -156,7 +164,7 @@
 * [SwViewCapture](https://github.com/startry/SwViewCapture) 一个用起来还不错的iOS截图库.(支持截取所有内容, 适用于所有ScrollView组成的视图, 包括WKWebView)
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 非常漂亮简洁的滚动隐藏navBar，oc和swift都可以用 
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) 导航栏下拉菜单选择控件，很不错，值得学习
-
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) 可展开的卡片式的控制器视图，效果真做的好
 
 #### *视频/图像* <a name="Swift视频/图像"></a>
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) GPUImage2图形处理框架，名气非常大
@@ -192,6 +200,8 @@
 * [R.swift](https://github.com/mac-cain13/R.swift) R.swift:以一种优雅安全的方式使用资源文件。Get strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [Permission](https://github.com/delba/Permission) 权限请求库
 * [Proposer](https://github.com/nixzhu/Proposer) 权限请求库
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) swift加密库, 支持md5,sha1,sha224,sha256...
+
 
 
 
@@ -234,6 +244,8 @@
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) IOS核心动画框架文档翻译
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) 苹果socket（TCP、UDP）编程库，相当不错，支持oc、swift
 * [TomatoRead](https://github.com/everettjf/TomatoRead) 番茄阅读 - 专注于精选 iOS / OS X 开发者博客，想法不错，值得收藏，里面也有作者收集的很多学习资料，与本人很多想法很像，值得关注
+* [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) 动画效果的收藏合集，还分了类别，不错哦！
+* [realm-cocoa](https://github.com/realm/realm-cocoa) iOS数据库操作首选，有OC和swift版，还有java版 https://realm.io
 
 
 
@@ -243,6 +255,9 @@
 * [Peckham](https://github.com/markohlebar/Peckham) xcode自动导入包插件
 * [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) 支持直接将json直接转换成oc对象的插件，MJ的扩展插件
 * [appledoc](https://github.com/tomaz/appledoc) 将oc代码写的项目快速生成苹果格式的文档 Objective-c code Apple style documentation set generator. http://gentlebytes.com
+* [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) Xcode代码单词快速翻译插件
+* [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) 可以运行选中的代码，不需要将项目运行起来，这个插件可以快速的帮你调试你写的东西  An Xcode plugin let you build & run your selected lines of code in Xcode without running the whole project, you'll have the output instantly in your Xcode console.
+* [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) 快速插入头文件，协议，父类可实现的方法的插件 Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
 
 
 ***
@@ -302,6 +317,8 @@
 * [bootstrap](https://github.com/twbs/bootstrap) 这个我就不想多介绍了，太好的东西了！！！！！！！！！！！
 * [loaders.css](https://github.com/ConnorAtherton/loaders.css) 一款css的loading动画框架
 * [animate.css](https://github.com/daneden/animate.css) 一款css的动画框架，可以基于这上面做很多效果，真不错！！！支持所有的基础动画效果 bounce shake 等等
+* [bootswatch](https://github.com/thomaspark/bootswatch) bootstrap的一些主题 Themes for Bootstrap http://bootswatch.com
+
 
 
 
@@ -310,6 +327,8 @@
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) 一套漂亮吊炸天的后台管理系统UI模板
 * [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker) 基于bootstrap的日期选择控件，漂亮简单强大
 * [bootstrap-daterangepicker2](https://github.com/Eonasdan/bootstrap-datetimepicker) 基于bootstrap的日期选择控件，漂亮简单强大2
+* [gentelella](https://github.com/puikinsh/gentelella) 有一款免费漂亮的后台管理模板 Free Bootstrap 3 Admin Template https://colorlib.com/polygon/gentelella/index.html
+
 
 ***
 
@@ -345,4 +364,11 @@
 * [producthunt-osx](https://github.com/producthunt/producthunt-osx) 每天分享最好，最新的mac应用 The best new products, every day on Mac.
 * [Gank-for-Mac](https://github.com/hujiaweibujidao/Gank-for-Mac) Gank for Mac是一个小巧的干货集中营Mac端应用
 * [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) chrome上的一个插件，听歌必备， 妈妈再也不用担心我找不到我想听的歌了。这里包含了网易云音乐，虾米，QQ音乐的曲库，够全够大了吧。
+* [OpenEmu](https://github.com/OpenEmu/OpenEmu) 模拟器游戏，赶快去找回儿时的记忆吧！！！Retro video game emulation for macOS http://openemu.org
+* [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) B站提供的 Mac 必备的在线视频播放器
+* [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配置完毕开箱即用的 tmux
+
+
+
+
 
