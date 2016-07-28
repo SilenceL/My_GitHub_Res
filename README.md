@@ -1,6 +1,6 @@
 # My_GitHub_Res([github地址](https://github.com/SilenceL/My_GitHub_Res))
 我在github关注的项目(The projects resource in my stars)。github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
-
+> 收集真不容易，喜欢请给个star
 
 # 导航(NAV)
 
@@ -85,6 +85,8 @@
 * [CTVideoPlayerView](https://github.com/casatwy/CTVideoPlayerView) 视频播放，支持在线播放，下载，自定义按钮，可以学习下
 * [XLVideoPlayer](https://github.com/ShelinShelin/XLVideoPlayer) 一款视频播放器，可以学习一下
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
+* [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
+
 
 
 
@@ -163,6 +165,9 @@
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) 又一套视频直播相关的解决方案，可以参考下
 * [CBTableViewDataSource](https://github.com/cocbin/CBTableViewDataSource) 一个仿照masonry语法写的tableview代理框架，思路不错，值得学习 Just one line to create DataSource and Delegate for UITableView
 * [openshare](https://github.com/100apps/openshare) 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付 （这个必须给star）
+* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) FB出品的内存使用情况监控窗口
+* [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) FB出品的这个库能让你通过将图像解码、布局以及渲染操作放在后台线程，从而带来超级响应的用户界面，也就是说不再会因界面卡顿而阻断用户交互
+* [Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC) 面向iOS底层库的编程方案,支持OC和Swift (Bolts is a collection of low-level libraries designed to make developing mobile apps easier)
 
 
 
@@ -171,11 +176,12 @@
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) 高仿微信（好多功能哦，可以参考下有些功能怎么写的 3000多star了）
 * [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
 * [ChatSecure-iO](https://github.com/ChatSecure/ChatSecure-iOS) 一个聊天项目，不错，不错，值得学习  ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. https://chatsecure.org
+* [SXNews](https://github.com/dsxNiubility/SXNews) 模仿网易新闻做的新闻软件，做的真不错！！
 * [Reader](https://github.com/GGGHub/Reader) 之前没接触过这块，可以了解下 iOS基于CoreText实现的电子书阅读器，支持txt，epub格式
 * [MobileProject](https://github.com/wujunyang/MobileProject) 一个基于MVC的项目框架，并集成一些常用的功能(不断更新中)
 * [eigen](https://github.com/artsy/eigen) 一款艺术效果的app，漂亮，值得借鉴学习
 * [Potatso](https://github.com/shadowsocks/Potatso) 旨在打造 iOS 平台最好的广告屏蔽软件
-
+* [hijack](https://github.com/taweili/hijack) 音频接口通信开发值得参考的项目，很老了！！！！
  
   
 ***
@@ -191,7 +197,8 @@
 * [Stellar](https://github.com/AugustRush/Stellar) 一个比较出色的物理动画库
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) 是一个帮助我们在 Interface Builder 和 Swift Playground 里面设计 UI, 交互, 导航模式, 换场和动画的开源库
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) 又一款让动画写起来更方便的框架
-
+* [FNPaperShredder](https://github.com/Fnoz/FNPaperShredder) 一款不错的碎纸机效果，有空的时候可以参看学习下怎么实现的
+* [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) 让图片在ViewControllers之间切换更加优雅自然 Beautiful and precise transitions between ViewControllers images written in Swift.
 
 
 
@@ -215,6 +222,11 @@
 * [BackgroundVideoiOS](https://github.com/Guzlan/BackgroundVideoiOS) 底部在跑个视频，适合做引导页的背景视频，oc和swift都可以参考！！
 * [Iconic](https://github.com/dzenbot/Iconic) iOS上使用字体图标，好爽哦！！！
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) 简单易用，并且可定制化UISegmentedControl & UISwitch的功能 An easy to use, customizable replacement for UISegmentedControl & UISwitch.
+* [SCLAlertView](https://github.com/dogo/SCLAlertView) 一款漂亮的alert弹窗
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) 一款不错的日历库
+* [Eureka](https://github.com/xmartlabs/Eureka) 优雅的创建form表单 快4000star了
+* [TabPageViewController](https://github.com/EndouMari/TabPageViewController) 滑动的TabPageViewController。 Paging view controller and scroll tab view
+* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) 翻拍效果，做的真好！！！！！！！！
 
 
 
@@ -229,6 +241,7 @@
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) 高性能gif图片查看引擎 High performance GIF engine
 * [UIImageColors](https://github.com/jathu/UIImageColors) 根据图片获取三级标题颜色，非常不错 iTunes style color fetcher for UIImage.
 * [BMPlayer](https://github.com/BrikerMan/BMPlayer) video player based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide. Swift 2. 基于AVPlayer，支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
+* [Live](https://github.com/ltebean/Live) 教你如何构建直播，服务端和app端都有
 
 
 
@@ -254,7 +267,9 @@
 * [Permission](https://github.com/delba/Permission) 权限请求库
 * [Proposer](https://github.com/nixzhu/Proposer) 权限请求库
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) swift加密库, 支持md5,sha1,sha224,sha256...
-
+* [Translucid](https://github.com/Ekhoo/Translucid) 让图片作为文字的背景 （Lightweight library to set an Image as text background. Written in swift.）
+* [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) 面向iOS底层库的编程方案,支持OC和Swift (Bolts is a collection of low-level libraries designed to make developing mobile apps easier)
+* [ReSwift](https://github.com/ReSwift/ReSwift) 单向数据流写法库 （Unidirectional Data Flow in Swift - Inspired by Redux http://reswift.github.io/ReSwift/）
 
 
 #### *开源项目* <a name="Swift开源项目"></a>
@@ -284,6 +299,7 @@
 ***
 
 ### IOS综合<a name="IOS综合"></a>
+* [Carthage](https://github.com/Carthage/Carthage) Carthage的目标是用最简单的方式来管理Cocoa第三方框架， CocoaPods的劲敌，Carthage 是由 Swift 语言写的，只支持动态框架，只支持 iOS8+！！！ 值得研究！！！！！！值得研究！！！！！！值得研究！！！！！！
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 函数式/响应式编程框架
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) MVVM与ReactiveCocoa结合的架构
 * [PromiseKit](https://github.com/mxcl/PromiseKit) PromiseKit 不仅仅是Promises的实现，它还是收集了一系列的有用的函数并且让他们异步化，让我们能愉快的进行IOS开发
@@ -314,6 +330,10 @@
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) B站提供的ios和安卓都可以用的视频播放框架 Android/iOS video player based on FFmpeg n3.1, with MediaCodec, VideoToolbox support.
 * [iOS_ICE_AND_FIRE](https://github.com/zhengmin1989/iOS_ICE_AND_FIRE) iOS冰与火之歌
 * [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) 扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积
+* [zen](https://github.com/100mango/zen) iOS心得 iOS禅
+
+
+
 
 
 
@@ -424,6 +444,7 @@
 * [react](https://github.com/facebook/react) react，这个是FB的拿手项目，react-native就是从这里衍生出来的
 * [react-demos](https://github.com/ruanyf/react-demos) 这里是react的简单demo，可供学习
 * [react-native](https://github.com/facebook/react-native) FB的react-native
+* [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) react-native自动升级
 * [Front-End-Develop-Guide](https://github.com/mulgore/Front-End-Develop-Guide) 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成
 * [awesome-react-native](https://github.com/jondot/awesome-react-native) react-native资料大搜罗
 * [moles-packer](https://github.com/ctripcorp/moles-packer) moles-packer 是由携程框架团队研发的，与携程moles框架配套使用的React Native 打包和拆包工具，同时支持原生的 React Native 项目。
@@ -484,6 +505,10 @@
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) IntelliJ IDEA 简体中文专题教程 玩IDEA的朋友可以看看
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) 这是TinyPNG的Mac客户端。TinyPNG提供了PNG图片的“几乎无损”压缩服务。使用TinyPNG4Mac，你可以通过简单的拖拽完成对PNG图片的压缩，无需打开浏览器，无需手动下载图片
 * [material-theme](https://github.com/equinusocio/material-theme) 这个sublime的material风格的主题，我爱的不要不要的！！！！
+* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) 让你安全或则无法到达的区域畅玩Pokemon
+* [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) PokemonGo 的地图，让你更清楚知道你附近的小精灵在哪里
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 用mac的人非star不可！！！！！star star star
+* [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 开发人员的安全指南，快1W star了 （Security Guide for Developers）！！！！！
 
 
 
