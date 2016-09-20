@@ -38,7 +38,7 @@
 * [数据相关](#Java数据相关)
 * [框架](#Java框架)
 
-## 前端开发
+## [前端开发](#前端开发)
 * [JavaScript](#JavaScript)
 * [html](#html)
 * [css](#css)
@@ -46,6 +46,8 @@
 * [前端开发综合](#前端开发综合)
 
 ## [python](#python)
+
+## [游戏开发](#游戏开发)
 
 ## [其他](#其他)
 * [设计](#设计)
@@ -86,6 +88,9 @@
 * [XLVideoPlayer](https://github.com/ShelinShelin/XLVideoPlayer) 一款视频播放器，可以学习一下
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
+* [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) 是一个类似微信小视频功能的框架
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) 强大的gif动态图引擎
+
 
 
 
@@ -110,6 +115,7 @@
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) 5500+star 浮动的UITextField，当你点击输入框后，提示将浮动起来，实用！！！ UITextField subclass with floating labels
 * [PNChart](https://github.com/kevinzhow/PNChart) 简单漂亮的图表展示库，简洁漂亮易用 A simple and beautiful chart lib used in Piner and CoinsMan for iOS
 * [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) 聊天和消息组件，可以拿来研究下 Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
+* [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 类似qq的聊天界面，支持文字、语音、头像、图片等等
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) 一个可拉伸的头部，适用于UITableView以及UICollectionView （A generic stretchy header for UITableView and UICollectionView）
 * [iCarousel](https://github.com/nicklockwood/iCarousel) 一个轮播效果的鼻祖，很多项目都是从这里改的
 * [CountryPicker](https://github.com/nicklockwood/CountryPicker) 一款国家选择器
@@ -117,6 +123,10 @@
 * [LxGridView](https://github.com/DeveloperLx/LxGridView) 一个仿照ios桌面长按抖动删除效果的UICollectionView Imitation iOS system desktop icon arrangement and interaction by UICollectionView!
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) 效果非常棒的tabbar，支持swift、oc，漂亮！！！
 * [RQShineLabel](https://github.com/zipme/RQShineLabel) 字体逐渐出现和逐渐消失效果的label，非常不错，值得研究和学习，不错，不错，不错！！！
+* [BonMot](https://github.com/Raizlabs/BonMot) 漂亮简单的使用 attributed strings
+* [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)漂亮的顶部底部通知视图
+* [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) 中间弹出框其实可以做很多事情，这个项目可以得到灵感！！
+
 
 
 
@@ -168,7 +178,11 @@
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) FB出品的内存使用情况监控窗口
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) FB出品的这个库能让你通过将图像解码、布局以及渲染操作放在后台线程，从而带来超级响应的用户界面，也就是说不再会因界面卡顿而阻断用户交互
 * [Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC) 面向iOS底层库的编程方案,支持OC和Swift (Bolts is a collection of low-level libraries designed to make developing mobile apps easier)
-
+* [CBTableViewDataSource](https://github.com/cocbin/CBTableViewDataSource) 用一行代码给tableview创建数据源和代理
+* [PinYin4Objc](https://github.com/kimziv/PinYin4Objc) 高效的中文转拼音库
+* [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo) 希望你能通过这个demo看到如何进行TableView流畅度优化的
+* [FXForms](https://github.com/nicklockwood/FXForms)一个tableview表单提交框架 2800+ star
+* [XLForm](https://github.com/xmartlabs/XLForm)又一个tableview表单提交框架 4000 star
 
 
  
@@ -227,8 +241,10 @@
 * [Eureka](https://github.com/xmartlabs/Eureka) 优雅的创建form表单 快4000star了
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) 滑动的TabPageViewController。 Paging view controller and scroll tab view
 * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) 翻拍效果，做的真好！！！！！！！！
-
-
+* [10Clock](https://github.com/joedaniels29/10Clock) iOS10 就寝UI效果
+* [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) iOS10 新api的demo
+* [SnapTimer](https://github.com/andresinaka/SnapTimer) 一个环形和饼图效果的demo
+* [StatusProvider](https://github.com/mariohahn/StatusProvider) 一个状态界面的实现方式，自己项目实现默认界面时可参考此实现方式
 
 
 #### *视频/图像* <a name="Swift视频/图像"></a>
@@ -242,6 +258,7 @@
 * [UIImageColors](https://github.com/jathu/UIImageColors) 根据图片获取三级标题颜色，非常不错 iTunes style color fetcher for UIImage.
 * [BMPlayer](https://github.com/BrikerMan/BMPlayer) video player based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide. Swift 2. 基于AVPlayer，支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
 * [Live](https://github.com/ltebean/Live) 教你如何构建直播，服务端和app端都有
+* [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) 根据给出的图片生成一张颜色背景图片
 
 
 
@@ -266,10 +283,13 @@
 * [R.swift](https://github.com/mac-cain13/R.swift) R.swift:以一种优雅安全的方式使用资源文件。Get strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [Permission](https://github.com/delba/Permission) 权限请求库
 * [Proposer](https://github.com/nixzhu/Proposer) 权限请求库
+* [PAPermissions](https://github.com/pascalbros/PAPermissions)权限请求库,跳转到对应的设置选项中
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) swift加密库, 支持md5,sha1,sha224,sha256...
 * [Translucid](https://github.com/Ekhoo/Translucid) 让图片作为文字的背景 （Lightweight library to set an Image as text background. Written in swift.）
 * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) 面向iOS底层库的编程方案,支持OC和Swift (Bolts is a collection of low-level libraries designed to make developing mobile apps easier)
 * [ReSwift](https://github.com/ReSwift/ReSwift) 单向数据流写法库 （Unidirectional Data Flow in Swift - Inspired by Redux http://reswift.github.io/ReSwift/）
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) Swift一些常用工具类 A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …)
+* [SwiftTimer](https://github.com/100mango/SwiftTimer) 以更简单的方式使用 Timer
 
 
 #### *开源项目* <a name="Swift开源项目"></a>
@@ -348,7 +368,8 @@
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) 一个xcode编辑扩展 提高 Xcode 8 的文本处理的体验，你可以通过简单的几行代码扩展它
 * [AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) 一个xcode可随意放大字体的插件
 * [JSPatchX](https://github.com/bang590/JSPatchX) JSPatch代码自动提示的插件 A XCode plugin that provides autocompletion for JSPatch
-
+* [awesome-xcode-extensions](https://github.com/tib/awesome-xcode-extensions) xCode8 扩展合集
+* [shenzhen](https://github.com/nomad/shenzhen) iOS APP命令打包参考
 
 ***
 
@@ -365,6 +386,7 @@
 * [SpringView](https://github.com/liaoinstan/SpringView) A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView and all another views, easy to use（这么简单的英文应该看得懂吧）
 * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) 安卓的materia风格的日历时间选择控件
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) Android的NavigationTabBar，效果不错，实用漂亮
+* [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery) RecyclerView实现Card Gallery效果，替代ViewPager方案。能够快速滑动并最终定位到居中位置
 
 
 #### *视频/图像* <a name="Android视频图像"></a>
@@ -377,6 +399,7 @@
 * [EventBus](https://github.com/greenrobot/EventBus) EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 安卓图表框架，好漂亮，也有ios版 A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) android的pdf阅读框架
+* [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) Android一款美得想哭的音乐播放器项目
 
 
 #### *Android资源合集* <a name="Android资源合集"></a>
@@ -396,7 +419,7 @@
 ### *框架* <a name="Java框架"></a>
 * [es](https://github.com/zhangkaitao/es) javaEE开发脚手架，也就是一套别人搭好的现成框架，写的不错，可以参考学习。springMVC+mybaitis+spring
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式
-
+* [useful-java-links](https://github.com/Vedenin/useful-java-links) 非常有用的java相关资料和框架的链接，什么都有，对于java开发者来说不得不看啊！！
 
 ***
 ## 前端开发<a name="前端开发"></a>
@@ -410,13 +433,14 @@
 * [core-decorators.js](https://github.com/jayphelps/core-decorators.js) 让你的js支持像java那样的注解
 * [postal.js](https://github.com/postaljs/postal.js) 事件订阅处理，类似安卓中的eventbus，iOS中的notification
 * [mustache.js](https://github.com/janl/mustache.js) 胡子{{name}}，是一个简单强大的Javascript模板引擎，使用它可以简化在js代码中的html编写，压缩后只有9KB，非常值得在项目中使用
-
+* [quill](https://github.com/quilljs/quill) 非常强大的富文本编辑器 1w+ star
 
 ### *html* <a name="html"></a>
 * [ionic](https://github.com/driftyco/ionic) webApp,用于开发web版手机app的超级框架 Ionic is the open source HTML5 Mobile Framework for building amazing, cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS. If you know how to build or design websites, you will be able to build a real mobile app with Ionic
 * [material-design-lite](https://github.com/google/material-design-lite) Material Design的html组件  Material Design Components in HTML/CSS/JS http://getmdl.io
 * [emojione](https://github.com/Ranks/emojione) emoji表情
 * [jekyllthemes](https://github.com/mattvh/jekyllthemes) 博客主题集合站
+* [flask_jsondash](https://github.com/christabor/flask_jsondash) 漂亮的表格
 
 
 
@@ -459,6 +483,14 @@
 ## python<a name="python"></a>
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Python资源大全中文版，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等
 * [python-patterns](https://github.com/faif/python-patterns) Python的设计模式
+* [qrcode](https://github.com/sylnsfar/qrcode) 可生成普通二维码、带图片的艺术二维码（黑白与彩色）、动态二维码（黑白与彩色）
+
+
+
+***
+
+## 游戏开发<a name="游戏开发"></a>
+* [Cocos-Resource](https://github.com/fusijie/Cocos-Resource) Cocos 资料大全
 
 
 
@@ -467,6 +499,7 @@
 ## 其他<a name="其他"></a>
 
 ### 设计 <a name="设计"></a>
+* [awesome-design](https://github.com/gztchan/awesome-design) 设计资源集合，总有你想要的！！！！
 * [sketch-plugin-directory](https://github.com/sketchplugins/plugin-directory) Sketch草图大师的插件合集
 
 ### 好东西 <a name="好东西"></a>
@@ -509,7 +542,7 @@
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) PokemonGo 的地图，让你更清楚知道你附近的小精灵在哪里
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 用mac的人非star不可！！！！！star star star
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 开发人员的安全指南，快1W star了 （Security Guide for Developers）！！！！！
-
+* [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io
 
 
 
