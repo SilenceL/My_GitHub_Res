@@ -67,6 +67,8 @@
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) VC转场动画库，好多哦！！！！
 * [Animations](https://github.com/YouXianMing/Animations) 很多酷炫动画的集合，可以以后用来借鉴参考
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) 一堆堆的动画效果，借鉴，借鉴！！！
+* [Dazzle](https://github.com/lichtschlag/Dazzle) 一些常见粒子效果动画，作粒子动画时可参考
+* [JSDownloadView](https://github.com/Josin22/JSDownloadView)精巧顺滑的下载动画
 
 
 
@@ -88,9 +90,12 @@
 * [XLVideoPlayer](https://github.com/ShelinShelin/XLVideoPlayer) 一款视频播放器，可以学习一下
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
+* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) 直播项目层出不穷，哈哈，不错 LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate
 * [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) 是一个类似微信小视频功能的框架
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) 强大的gif动态图引擎
-
+* [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile)本解决方案包含了使用FFmpeg在移动端处理多媒体的各种例子 Android / IOS / WinPhone
+* [TKImageView](https://github.com/3tinkers/TKImageView)当需要截图的时候就可以考虑了，简单易用
+* [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser) 用法简单的呈现一组图片的框架
 
 
 
@@ -106,6 +111,7 @@
 * [MXPullDownMenu](https://github.com/max2oi/MXPullDownMenu) 公司现在用的下拉菜单控件，简单，可以自己任意改造，但是功能太简单，经常无法满足需求，得自己改，但是很好改
 * [ICViewPager](https://github.com/iltercengiz/ICViewPager) 公司现在用的页面切换控件，一直在用，比较容易改造，能满足日常使用，功能比较简单
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) 页面切换控件，功能好多，先收藏，说不定日后有用
+* [NinaPagerView](https://github.com/RamWire/NinaPagerView)又一个不错的页面切换控件
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) 侧面菜单控制器（可左右都有）
 * [Y_KLine](https://github.com/yate1996/Y_KLine) iOS-K线
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) QQ侧滑菜单。 iOS 7/8 style side menu with parallax effect.
@@ -118,6 +124,7 @@
 * [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 类似qq的聊天界面，支持文字、语音、头像、图片等等
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) 一个可拉伸的头部，适用于UITableView以及UICollectionView （A generic stretchy header for UITableView and UICollectionView）
 * [iCarousel](https://github.com/nicklockwood/iCarousel) 一个轮播效果的鼻祖，很多项目都是从这里改的
+* [XRCarouselView](https://github.com/codingZero/XRCarouselView) 史上最简单的图片轮播，可左右滚动与淡入淡出，秒集成，支持gif图片，自带缓存，不依赖任何第三方库
 * [CountryPicker](https://github.com/nicklockwood/CountryPicker) 一款国家选择器
 * [VTMagic](https://github.com/tianzhuo112/VTMagic) 一个viewpage功能，可以参考学习，可用作新闻客户端订阅类的app
 * [LxGridView](https://github.com/DeveloperLx/LxGridView) 一个仿照ios桌面长按抖动删除效果的UICollectionView Imitation iOS system desktop icon arrangement and interaction by UICollectionView!
@@ -126,10 +133,13 @@
 * [BonMot](https://github.com/Raizlabs/BonMot) 漂亮简单的使用 attributed strings
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)漂亮的顶部底部通知视图
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) 中间弹出框其实可以做很多事情，这个项目可以得到灵感！！
-
-
-
-
+* [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton)一款很炫的菜单弹出选择UI
+* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) 一款material design 风格式的文本输入UI
+* [UICountingLabel](https://github.com/dataxpress/UICountingLabel) 一个实用的数字累加减label
+* [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) 几行代码接入启动页广告, 自带图片下载、缓存相关功能, 无任何第三方依赖 - 支持静态/动态、全屏/半屏广告、iPhone/iPad.
+* [jot](https://github.com/IFTTT/jot) 一款在图片上绘制和添加文字的框架
+* [ChatKit-OC](https://github.com/leancloud/ChatKit-OC) 基于LeanCloud的聊天UI界面
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 支持动态改变导航栏的颜色、属性 3k5 star了
 
 
 #### *HUD/弹出层* <a name="OCHUD/弹出层"></a>
@@ -144,6 +154,7 @@
 #### *框架* <a name="OC框架"></a>
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) oc最屌最多人用的网络框架
+* [YTKNetwork](https://github.com/yuantiku/YTKNetwork)YTKNetwork 是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象
 * [Masonry](https://github.com/SnapKit/Masonry) oc最出名的代码写自动布局框架
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) forkingdog出品的oc自动算/缓存UITableViewCell行高框架
 * [FDStackView](https://github.com/forkingdog/FDStackView)forkingdog出品的让IOS6以上的项目可以使用 UIStackView，只需要将框架放入项目即可
@@ -183,6 +194,12 @@
 * [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo) 希望你能通过这个demo看到如何进行TableView流畅度优化的
 * [FXForms](https://github.com/nicklockwood/FXForms)一个tableview表单提交框架 2800+ star
 * [XLForm](https://github.com/xmartlabs/XLForm)又一个tableview表单提交框架 4000 star
+* [NSDate-Extensions](https://github.com/erica/NSDate-Extensions) 一个NSDate 扩展操作类
+* [UITextField-MaxLength](https://github.com/edokeh/UITextField-MaxLength) UITextField 最大长度扩展
+* [AppDevKit](https://github.com/yahoo/AppDevKit) 雅虎开源的iOS app开发框架
+* [card.io-iOS-SDK](https://github.com/AllLuckly/card.io-iOS-SDK) 扫描信用卡/银行卡
+* [IntentKit](https://github.com/intentkit/IntentKit) 通过URL的方式去启动第三方的app An easier way to handle third-party URL schemes in iOS apps
+
 
 
  
@@ -196,6 +213,9 @@
 * [eigen](https://github.com/artsy/eigen) 一款艺术效果的app，漂亮，值得借鉴学习
 * [Potatso](https://github.com/shadowsocks/Potatso) 旨在打造 iOS 平台最好的广告屏蔽软件
 * [hijack](https://github.com/taweili/hijack) 音频接口通信开发值得参考的项目，很老了！！！！
+* [simplenote-ios](https://github.com/Automattic/simplenote-ios) simplenote的源代码
+* [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) WordPress 开源项目
+* [wire-ios](https://github.com/wireapp/wire-ios) wire客户端开源项目
  
   
 ***
@@ -213,6 +233,10 @@
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) 又一款让动画写起来更方便的框架
 * [FNPaperShredder](https://github.com/Fnoz/FNPaperShredder) 一款不错的碎纸机效果，有空的时候可以参看学习下怎么实现的
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) 让图片在ViewControllers之间切换更加优雅自然 Beautiful and precise transitions between ViewControllers images written in Swift.
+* [PageControls](https://github.com/popwarsweet/PageControls) 动画效果不错的 页面指示器
+* [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) 两个collection view 之间的布局切换效果，很漂亮
+* [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) 一个简单的动画框架，用于app里面滑动的时候
+* [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) 圆环，环形进度加载效果
 
 
 
@@ -245,6 +269,13 @@
 * [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) iOS10 新api的demo
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) 一个环形和饼图效果的demo
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) 一个状态界面的实现方式，自己项目实现默认界面时可参考此实现方式
+* [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) 比原生的UItableview 索引好得多的索引UI （A pixel perfect replacement for UITableView section index, written in Swift）
+* [NMessenger](https://github.com/eBay/NMessenger)一个快速轻量的聊天UI，A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) 非常漂亮的消息提示控件
+* [OnboardingKit](https://github.com/Athlee/OnboardingKit) 一个漂亮的引导页效果
+* [Kaeru](https://github.com/bannzai/Kaeru)像ios任务管理器那样切换viewcontroller Switch viewcontroller like ios task manager
+* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) 可自定义的日历控件
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) 自定义的UISegmentedControl，漂亮，可考虑替换掉原生的。 Custom UISegmentedControl replacement for iOS, written in Swift
 
 
 #### *视频/图像* <a name="Swift视频/图像"></a>
@@ -271,6 +302,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) 网络框架，swift版的AFNetwork 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) swift上使用和关注度最高的json操作库
 * [JASON](https://github.com/delba/JASON) json快速转换 。Fast JSON parsing for Swift
+* [JSON](https://github.com/soffes/JSON) 一个非常轻量的json转化框架，不到100行代码 Micro framework for easily parsing JSON in Swift 3 with rich error messages in less than 100 lines of code
 * [SnapKit](https://github.com/SnapKit/SnapKit) swift上代码写自动布局 swift版的Masonry
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) swift上的扩展类，可以做很多事情哦
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) swift上的扩展类。How Swift standard types and classes were supposed to work.
@@ -290,17 +322,35 @@
 * [ReSwift](https://github.com/ReSwift/ReSwift) 单向数据流写法库 （Unidirectional Data Flow in Swift - Inspired by Redux http://reswift.github.io/ReSwift/）
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) Swift一些常用工具类 A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …)
 * [SwiftTimer](https://github.com/100mango/SwiftTimer) 以更简单的方式使用 Timer
-
+* [FaceAware](https://github.com/BeauNouvelle/FaceAware)让头像图片显示的更加好，人脸优先
+* [Starscream](https://github.com/daltoniam/Starscream)用来调网页接口 Websockets in swift for iOS and OSX
+* [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) 一个监测文件内容变化的框架，值得看下实现原理
+* [AudioKit](https://github.com/audiokit/AudioKit)Swift的一个音频框架
+* [StyleKit](https://github.com/146BC/StyleKit)可以通过json来管理ui样式 A powerful & easy to use styling framework written in Swift
+* [PinpointKit](https://github.com/Lickability/PinpointKit)PinpointKit是一个简单的手势动作快速触发反馈组件（自动截屏、附加说明和日志）
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) 让iOS和MacOS更好的使用蓝牙功能
+* [ChineseIDCardOCR](https://github.com/KevinGong2013/ChineseIDCardOCR)🇨🇳中国二代身份证光学识别
 
 #### *开源项目* <a name="Swift开源项目"></a>
 * [swift](https://github.com/apple/swift) swift
 * [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) 30 天 30 个 swift DEMO
+* [LearnSwift](https://github.com/cjiong/LearnSwift) 100天53个swift项目
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) 一款效果不错的美食社交类项目
+* [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) 一款仿YouTube的项目
+* [TSWeChat](https://github.com/hilen/TSWeChat) 高仿腾讯微信
+* [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
+* [Yep](https://github.com/CatchChat/Yep) 遇见天才 yep开源项目
+* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) 收听广播的项目
+* [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) 火狐浏览器开源项目
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) flappy bird
+* [VPNOn](https://github.com/lexrus/VPNOn) VPN On 的开源项目 Turn On your VPN like a hero. https://itunes.apple.com/app/vpn-on/id951344279
 
 
 #### *Swift资源合集* <a name="Swift资源合集"></a>
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) swift的教程合集，英文的哦
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) swift不错的集合
+* [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) Playgrounds 合集
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) swift算法俱乐部，算法，算法
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) swift版的设计模式
 * [swift-summary](https://github.com/jakarmy/swift-summary) 一个swift语法的摘要集合，很不错。 A summary of Apple's Swift language written on Playgrounds
@@ -320,6 +370,7 @@
 
 ### IOS综合<a name="IOS综合"></a>
 * [Carthage](https://github.com/Carthage/Carthage) Carthage的目标是用最简单的方式来管理Cocoa第三方框架， CocoaPods的劲敌，Carthage 是由 Swift 语言写的，只支持动态框架，只支持 iOS8+！！！ 值得研究！！！！！！值得研究！！！！！！值得研究！！！！！！
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) CocoaPods
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 函数式/响应式编程框架
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) MVVM与ReactiveCocoa结合的架构
 * [PromiseKit](https://github.com/mxcl/PromiseKit) PromiseKit 不仅仅是Promises的实现，它还是收集了一系列的有用的函数并且让他们异步化，让我们能愉快的进行IOS开发
@@ -351,7 +402,10 @@
 * [iOS_ICE_AND_FIRE](https://github.com/zhengmin1989/iOS_ICE_AND_FIRE) iOS冰与火之歌
 * [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) 扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积
 * [zen](https://github.com/100mango/zen) iOS心得 iOS禅
-
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款非常棒的日历框架，支持swift和oc
+* [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试题集锦（附答案）
+* [FLEX](https://github.com/Flipboard/FLEX) 一个在iOS的app里面的应用调试和开发工具
+* [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总
 
 
 
@@ -370,11 +424,20 @@
 * [JSPatchX](https://github.com/bang590/JSPatchX) JSPatch代码自动提示的插件 A XCode plugin that provides autocompletion for JSPatch
 * [awesome-xcode-extensions](https://github.com/tib/awesome-xcode-extensions) xCode8 扩展合集
 * [shenzhen](https://github.com/nomad/shenzhen) iOS APP命令打包参考
+* [Knuff](https://github.com/KnuffApp/Knuff) 调试苹果的推送工具 The debug application for Apple Push Notification Service (APNs).
+* [NWPusher](https://github.com/noodlewerk/NWPusher) 调试苹果的推送工具 OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+* [spectacle](https://github.com/eczarny/spectacle) 不需要通过鼠标牛就可以管理你的mac桌面窗口 Spectacle allows you to organize your windows without using a mouse.
+* [iOS_core_animation](https://github.com/AlfredTheBest/iOS_core_animation) 📙iOS核心动画高级技巧
+* [unused-image](https://github.com/examplecode/unused-image) 清理项目中未使用的图片
+* [AppIconAutoMaker](https://github.com/Kito0615/AppIconAutoMaker) app图标自动生成工具
+* [xctool](https://github.com/facebook/xctool) FB出品的 自动构建和测试的框架
+* [Util](https://github.com/carya/Util) iOS app 自动打包脚本
 
 ***
 
 ## Android<a name="Android"></a>
 #### *动画* <a name="Android动画"></a>
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) Android上的加载动画
 
 #### *UI* <a name="Android动画"></a>
 * [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) 安卓最经典最多人使用的上下拉加载数据
@@ -387,11 +450,14 @@
 * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) 安卓的materia风格的日历时间选择控件
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) Android的NavigationTabBar，效果不错，实用漂亮
 * [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery) RecyclerView实现Card Gallery效果，替代ViewPager方案。能够快速滑动并最终定位到居中位置
+* [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager) 水平切换的无限循环 ViewPager 效果
 
 
 #### *视频/图像* <a name="Android视频图像"></a>
 * [picasso](https://github.com/square/picasso) Android强大的图片处理工具框架
 * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册 
+* [Luban](https://github.com/Curzibn/Luban)Android图片压缩工具，仿微信朋友圈压缩策略。
+* [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) 安卓文件选择器，可选择文件、图片
 
 #### *开源项目* <a name="Android开源项目"></a>
 * [okhttp](https://github.com/square/okhttp) android的网络请求框架
@@ -400,6 +466,8 @@
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 安卓图表框架，好漂亮，也有ios版 A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) android的pdf阅读框架
 * [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) Android一款美得想哭的音乐播放器项目
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)Android开发人员不得不收集的代码
+
 
 
 #### *Android资源合集* <a name="Android资源合集"></a>
@@ -420,6 +488,8 @@
 * [es](https://github.com/zhangkaitao/es) javaEE开发脚手架，也就是一套别人搭好的现成框架，写的不错，可以参考学习。springMVC+mybaitis+spring
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式
 * [useful-java-links](https://github.com/Vedenin/useful-java-links) 非常有用的java相关资料和框架的链接，什么都有，对于java开发者来说不得不看啊！！
+* [DataX](https://github.com/alibaba/DataX) DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、HDFS、Hive、OceanBase、HBase、OTS、ODPS 等各种异构数据源之间高效的数据同步功能
+
 
 ***
 ## 前端开发<a name="前端开发"></a>
@@ -434,6 +504,12 @@
 * [postal.js](https://github.com/postaljs/postal.js) 事件订阅处理，类似安卓中的eventbus，iOS中的notification
 * [mustache.js](https://github.com/janl/mustache.js) 胡子{{name}}，是一个简单强大的Javascript模板引擎，使用它可以简化在js代码中的html编写，压缩后只有9KB，非常值得在项目中使用
 * [quill](https://github.com/quilljs/quill) 非常强大的富文本编辑器 1w+ star
+* [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) 一款非常漂亮的图片和视频册展示的js
+* [freecodecamp.cn](https://github.com/huluoyang/freecodecamp.cn)freecodecamp.cn开源项目 个人 已移至团队
+* [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)freecodecamp.cn开源项目 团队
+* [hexo](https://github.com/hexojs/hexo) 搭建静态博客的最好选择
+* [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) yilia主题
+* [three.js](https://github.com/mrdoob/three.js) JavaScript 3D库，封装了底层的WebGL图形接口，提供简化、高效的三维图形程序开发。使用Three.js可以使你在不了解图形学知识的前提下，快速方便地开发三维图形应用 2w8的star了
 
 ### *html* <a name="html"></a>
 * [ionic](https://github.com/driftyco/ionic) webApp,用于开发web版手机app的超级框架 Ionic is the open source HTML5 Mobile Framework for building amazing, cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS. If you know how to build or design websites, you will be able to build a real mobile app with Ionic
@@ -460,7 +536,8 @@
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) 一套漂亮吊炸天的后台管理系统UI模板
 * [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker) 基于bootstrap的日期选择控件，漂亮简单强大
 * [bootstrap-daterangepicker2](https://github.com/Eonasdan/bootstrap-datetimepicker) 基于bootstrap的日期选择控件，漂亮简单强大2
-* [gentelella](https://github.com/puikinsh/gentelella) 有一款免费漂亮的后台管理模板 Free Bootstrap 3 Admin Template https://colorlib.com/polygon/gentelella/index.html
+* [gentelella](https://github.com/puikinsh/gentelella) 又一款免费漂亮的后台管理模板 Free Bootstrap 3 Admin Template https://colorlib.com/polygon/gentelella/index.html
+* [CoreUI-Free-Bootstrap-Admin-Template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) 又一个后台管理系统模板
 
 
 
@@ -469,11 +546,12 @@
 * [react-demos](https://github.com/ruanyf/react-demos) 这里是react的简单demo，可供学习
 * [react-native](https://github.com/facebook/react-native) FB的react-native
 * [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) react-native自动升级
+* [react-native-camera](https://github.com/lwansbrough/react-native-camera)调用摄像头
 * [Front-End-Develop-Guide](https://github.com/mulgore/Front-End-Develop-Guide) 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成
 * [awesome-react-native](https://github.com/jondot/awesome-react-native) react-native资料大搜罗
 * [moles-packer](https://github.com/ctripcorp/moles-packer) moles-packer 是由携程框架团队研发的，与携程moles框架配套使用的React Native 打包和拆包工具，同时支持原生的 React Native 项目。
 * [weex](https://github.com/alibaba/weex) 阿里打造的一款与react-native类似的玩意
-
+* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)微信小程序开发资源汇总
 
 
 
@@ -481,9 +559,24 @@
 ***
 
 ## python<a name="python"></a>
+* [awesome-python](https://github.com/vinta/awesome-python) python资源合集
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Python资源大全中文版，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习合集
 * [python-patterns](https://github.com/faif/python-patterns) Python的设计模式
 * [qrcode](https://github.com/sylnsfar/qrcode) 可生成普通二维码、带图片的艺术二维码（黑白与彩色）、动态二维码（黑白与彩色）
+* [django](https://github.com/django/django) python最牛web框架
+* [flask](https://github.com/pallets/flask) Flask 是一个 Python 实现的 Web 开发微框架
+* [research](https://github.com/commaai/research)车辆行驶识别
+* [pip](https://github.com/pypa/pip)包安装工具
+* [wooyun_public](https://github.com/hanc00l/wooyun_public)乌云公开漏洞、知识库爬虫和搜索
+* [keras](https://github.com/fchollet/keras) 深度学习框架
+* [requests](https://github.com/kennethreitz/requests) http请求框架
+* [scrapy](https://github.com/scrapy/scrapy) 吊炸天的爬虫框架
+* [httpie](https://github.com/jkbrzt/httpie) 命令行式的http工具，支持json，语法高亮，扩展，下载等。
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) 聊天机器人
+* [mailinabox](https://github.com/mail-in-a-box/mailinabox) 邮件服务器
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) 机器学习
+* [ansible](https://github.com/ansible/ansible) ansible是新出现的 自动化 运维工具. 糅合了众多老牌运维工具的优点实现了批量操作系统配置、批量程序的部署、批量运行命令等功能
 
 
 
@@ -491,7 +584,7 @@
 
 ## 游戏开发<a name="游戏开发"></a>
 * [Cocos-Resource](https://github.com/fusijie/Cocos-Resource) Cocos 资料大全
-
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x) 这个不用介绍了！！
 
 
 ***
@@ -501,6 +594,7 @@
 ### 设计 <a name="设计"></a>
 * [awesome-design](https://github.com/gztchan/awesome-design) 设计资源集合，总有你想要的！！！！
 * [sketch-plugin-directory](https://github.com/sketchplugins/plugin-directory) Sketch草图大师的插件合集
+* [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) 很有趣的web设计引导学习方式
 
 ### 好东西 <a name="好东西"></a>
 * [Hospital](https://github.com/open-power-workgroup/Hospital) OpenPower工作组收集汇总的医院开放数据 http://open-power-workgroup.github.io/Hospital
@@ -535,6 +629,8 @@
 * [macdown](https://github.com/MacDownApp/macdown) 非常好用的markdown编写软件，本人就一直用的这个，简单，小巧
 * [SQLiteApp](https://github.com/javaliker/SQLiteApp) mac上操作SQLite数据库的app，简单好用
 * [aria2](https://github.com/aria2/aria2) 把这玩意配置好吧，你会觉得你可以不用迅雷、百度云盘等客户端了 [参考链接](http://sspai.com/32167)
+* [aria2gui](https://github.com/yangshun1029/aria2gui)aria2下载通过chrome插件管理下载
+* [BaiduExporter](https://github.com/acgotaku/BaiduExporter)可以方便的把百度网盘的下载地址导出到 aria2/aria2-rpc，支持 YAAW。
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) IntelliJ IDEA 简体中文专题教程 玩IDEA的朋友可以看看
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) 这是TinyPNG的Mac客户端。TinyPNG提供了PNG图片的“几乎无损”压缩服务。使用TinyPNG4Mac，你可以通过简单的拖拽完成对PNG图片的压缩，无需打开浏览器，无需手动下载图片
 * [material-theme](https://github.com/equinusocio/material-theme) 这个sublime的material风格的主题，我爱的不要不要的！！！！
@@ -543,9 +639,13 @@
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 用mac的人非star不可！！！！！star star star
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) 开发人员的安全指南，快1W star了 （Security Guide for Developers）！！！！！
 * [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io
-
-
-
+* [brew](https://github.com/Homebrew/brew)MacOS上的包管理工具
+* [you-get](https://github.com/soimort/you-get)You-Get 是一个轻量级的命令行程序，可以让我们便利地下载网络视频，比迅雷还要快的视频下载利器
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg) FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序
+* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) 这是一个免费软件网络服务和web应用程序列表
+* [PostgresApp](https://github.com/PostgresApp/PostgresApp) 在mac上开始玩PostgreSQL吧！！！
+* [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+* [Best-App](https://github.com/hzlzh/Best-App)收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 
 
