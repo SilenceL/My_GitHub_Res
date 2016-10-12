@@ -96,6 +96,7 @@
 * [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile)本解决方案包含了使用FFmpeg在移动端处理多媒体的各种例子 Android / IOS / WinPhone
 * [TKImageView](https://github.com/3tinkers/TKImageView)当需要截图的时候就可以考虑了，简单易用
 * [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser) 用法简单的呈现一组图片的框架
+* [TOCropViewController](https://github.com/TimOliver/TOCropViewController) 图片裁剪项目，好🐂！
 
 
 
@@ -140,6 +141,8 @@
 * [jot](https://github.com/IFTTT/jot) 一款在图片上绘制和添加文字的框架
 * [ChatKit-OC](https://github.com/leancloud/ChatKit-OC) 基于LeanCloud的聊天UI界面
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 支持动态改变导航栏的颜色、属性 3k5 star了
+* [KTCenterFlowLayout](https://github.com/keighl/KTCenterFlowLayout) 标签流布局
+* [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) 一组tab栏（UISegmentedControl），一点都不Android
 
 
 #### *HUD/弹出层* <a name="OCHUD/弹出层"></a>
@@ -198,8 +201,11 @@
 * [UITextField-MaxLength](https://github.com/edokeh/UITextField-MaxLength) UITextField 最大长度扩展
 * [AppDevKit](https://github.com/yahoo/AppDevKit) 雅虎开源的iOS app开发框架
 * [card.io-iOS-SDK](https://github.com/AllLuckly/card.io-iOS-SDK) 扫描信用卡/银行卡
+* [SGQRCode](https://github.com/kingsic/SGQRCode) iOS原生二维码生成与扫描以及条形码的扫描
 * [IntentKit](https://github.com/intentkit/IntentKit) 通过URL的方式去启动第三方的app An easier way to handle third-party URL schemes in iOS apps
-
+* [EasyIOS](https://github.com/zhuchaowe/EasyIOS) MVVM模式 值得学习参考的项目 
+* [HYFileManager](https://github.com/castial/HYFileManager)HYFileManager一个基于NSFileManager的文件操作类，它提供一系列的静态方法，只用少量的代码，来处理经常需要处理的文件操作，使得工作更加方便快捷
+* [PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS)PHPHub for iOS 是 PHPHub 的官方 iOS 客户端, 同时兼容 iPhone 和 iPad, 使用了最新的 PHPHub API
 
 
  
@@ -216,7 +222,9 @@
 * [simplenote-ios](https://github.com/Automattic/simplenote-ios) simplenote的源代码
 * [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) WordPress 开源项目
 * [wire-ios](https://github.com/wireapp/wire-ios) wire客户端开源项目
- 
+* [Coding-iOS](https://github.com/Coding/Coding-iOS) Coding_iOS客户端项目
+* [HubFramework](https://github.com/spotify/HubFramework) 团队快速构建应用框架，超级解耦，组件思想用的不错，自己做架构时非常值得参考。
+* [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) 非常完整的音乐播放器项目，非常完整，非常完整，非常完整！！
   
 ***
 ### Swift <a name="Swift"></a>
@@ -330,6 +338,8 @@
 * [PinpointKit](https://github.com/Lickability/PinpointKit)PinpointKit是一个简单的手势动作快速触发反馈组件（自动截屏、附加说明和日志）
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) 让iOS和MacOS更好的使用蓝牙功能
 * [ChineseIDCardOCR](https://github.com/KevinGong2013/ChineseIDCardOCR)🇨🇳中国二代身份证光学识别
+* [Typist](https://github.com/totocaster/Typist) 一个小型的swift的键盘事件管理框架
+* [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) 让swift更好的使用 attributed strings.
 
 #### *开源项目* <a name="Swift开源项目"></a>
 * [swift](https://github.com/apple/swift) swift
@@ -406,7 +416,7 @@
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试题集锦（附答案）
 * [FLEX](https://github.com/Flipboard/FLEX) 一个在iOS的app里面的应用调试和开发工具
 * [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总
-
+* [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) 提取ipa、car文件、png、jpg或者整个文件夹图片资源文件非常👍！！
 
 
 
@@ -432,6 +442,9 @@
 * [AppIconAutoMaker](https://github.com/Kito0615/AppIconAutoMaker) app图标自动生成工具
 * [xctool](https://github.com/facebook/xctool) FB出品的 自动构建和测试的框架
 * [Util](https://github.com/carya/Util) iOS app 自动打包脚本
+* [Import](https://github.com/markohlebar/Import) xcode8 上的导包工具
+* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) xcode 8 根据属性自动生成构造函数的插件
+
 
 ***
 
@@ -461,6 +474,7 @@
 
 #### *开源项目* <a name="Android开源项目"></a>
 * [okhttp](https://github.com/square/okhttp) android的网络请求框架
+* [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持cookie的持久化和自动管理，支持四种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
 * [xUtils3](https://github.com/wyouflf/xUtils3) android orm, bitmap, http, view inject...等工具框架合集
 * [EventBus](https://github.com/greenrobot/EventBus) EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 安卓图表框架，好漂亮，也有ios版 A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
@@ -510,6 +524,7 @@
 * [hexo](https://github.com/hexojs/hexo) 搭建静态博客的最好选择
 * [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) yilia主题
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D库，封装了底层的WebGL图形接口，提供简化、高效的三维图形程序开发。使用Three.js可以使你在不了解图形学知识的前提下，快速方便地开发三维图形应用 2w8的star了
+* [nativefier](https://github.com/jiahaog/nativefier) 将任意web页面变成桌面应用（包括mac app），这个可以用于写简单桌面应用
 
 ### *html* <a name="html"></a>
 * [ionic](https://github.com/driftyco/ionic) webApp,用于开发web版手机app的超级框架 Ionic is the open source HTML5 Mobile Framework for building amazing, cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS. If you know how to build or design websites, you will be able to build a real mobile app with Ionic
@@ -611,6 +626,7 @@
 
 * [octotree](https://github.com/buunguyen/octotree) 各大浏览器支持在右侧树菜单方式查看github的代码
 * [lantern-binaries](https://github.com/getlantern/lantern-binaries) FQ神器,去国外看看
+* [getlantern](https://github.com/getlantern/forum) FQ神器 最新版本下载
 * [hosts](https://github.com/racaljk/hosts) 最新可用的google hosts文件。镜像： https://coding.net/u/scaffrey/p/hosts/git
 * [AppleDNS](https://github.com/gongjianhui/AppleDNS) Apple 网络服务加速配置。真的快，快出声！（少数派、Appinn、Mac玩儿法 推荐）
 * [XcodePluginUpgradeCompatible-LFL](https://github.com/LFL2018/XcodePluginUpgradeCompatible-LFL) Xcode升级插件兼容一键解决命令工程
@@ -646,6 +662,9 @@
 * [PostgresApp](https://github.com/PostgresApp/PostgresApp) 在mac上开始玩PostgreSQL吧！！！
 * [ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 * [Best-App](https://github.com/hzlzh/Best-App)收集&推荐优秀的 Apps/硬件/技巧/周边等
+* [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) 快捷键(快捷属性参考)大全，真的是大全，什么的快捷键都有。
+* [google-interview-university](https://github.com/jwasham/google-interview-university) 一套完整的学习手册帮助自己准备 Google 的面试
+* [Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source) VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
 
 
 
